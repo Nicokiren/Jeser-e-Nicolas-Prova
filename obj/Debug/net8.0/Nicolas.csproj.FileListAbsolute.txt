@@ -126,3 +126,4 @@ C:\Users\autologon\Desktop\prov\Jeser\Nicolas\obj\Debug\net8.0\refint\Nicolas.dl
 C:\Users\autologon\Desktop\prov\Jeser\Nicolas\obj\Debug\net8.0\Nicolas.pdb
 C:\Users\autologon\Desktop\prov\Jeser\Nicolas\obj\Debug\net8.0\Nicolas.genruntimeconfig.cache
 C:\Users\autologon\Desktop\prov\Jeser\Nicolas\obj\Debug\net8.0\ref\Nicolas.dll
+C:\Users\autologon\Desktop\prov\Jeser\Nicolas\obj\Debug\net8.0\Nicolas.sourcelink.json

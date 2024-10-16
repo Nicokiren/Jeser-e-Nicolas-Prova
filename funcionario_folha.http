@@ -7,9 +7,8 @@ POST http://localhost:5233/funcionario/cadastrar
 Content-Type: application/json
 
 {
-    "nome": "Glauberto Izaqui",
-    "cpf" : "00000000000",
-    "FuncionarioID" : 1
+    "nome": "izau",
+    "cpf" : "00000000000"
 }
 
 ### Obtenção de todos os funcionários
@@ -27,7 +26,7 @@ Content-Type: application/json
     "quantidade" : 1000,
     "mes" : 10,
     "ano" : 2023,
-    "funcionarioId" : 1
+    "funcionarioId" : 3
 }
 
 ### Obtenção de todas as folhas
